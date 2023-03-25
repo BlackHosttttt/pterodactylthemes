@@ -1,6 +1,6 @@
 TemuxOS Themes
 Instalação do script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/MIKAILREI/pterodactylthemes/main/menu.sh)
+bash <(curl https://raw.githubusercontent.com/BlackHosttttt/pterodactylthemes/main/menu.sh)
 ```
 
